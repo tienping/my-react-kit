@@ -1,0 +1,11 @@
+{
+  "name": "@tienping/my-tool-kit",
+  "version": "1.0.2",
+  "description": "Treassure box comprise of util function and styling mechanism",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TienPing",
+  "license": "ISC"
+}
